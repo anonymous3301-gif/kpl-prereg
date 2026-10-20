@@ -1,6 +1,6 @@
 # KPL Preregistration
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23492899.svg)](https://doi.org/10.5281/zenodo.23492899)
+[![DOI (Zenodo)](https://zenodo.org/badge/DOI/10.5281/zenodo.23492899.svg)](https://doi.org/10.5281/zenodo.23492899)
 
 This repository is the **frozen preregistration record** for the KPL
 (Kaczmarz Projection Layer) project. It contains the H1-H4 preregistrations,
