@@ -18,6 +18,7 @@ limitations before the confirmatory runs.
 | `prereg_H2_path_dependence.md` | H2 path-dependence preregistration (v0.5.1) |
 | `prereg_H3_eta_constant.md` | H3 eta-constant preregistration |
 | `prereg_H4_beta_clamp.md` | H4 beta-clamp preregistration |
+| `results_E1_1.md` | E1.1 results (v1.1-prereg, G1 PASS) |
 | `n_test_rules.md` | n_pairs vs n_test, SD_adj, delta, cap, bimodal rule |
 | `freeze_notes.md` | What was frozen when, and what was not a full pre-result freeze |
 
