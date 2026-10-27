@@ -70,3 +70,26 @@ its CI.
   replace the Zenodo DOI timestamp.
 - Real names are not published in this GitHub repository. If OSF is added
   later, it is the only place where real-name registration is planned.
+
+## 7. collapse k = 5 freeze timing (2026-10-20)
+
+- The collapse threshold is fixed at **k=5**: `5 * chance = 5/300 = 0.0167`.
+- **Timing:** fixed after the pilot **14/40 partial summary** was seen (only (16,16) and (128,16)). This is **not fully blind**.
+- **Basis:** the paper's complete-collapse threshold 0.02 and the SE pre-calculation, **not** the partial-data collapse counts.
+- **After 40/40:** k=5 is maintained. No result-dependent change is allowed. Sensitivity analyses use k=2, 10, 20, 50.
+- `delta = 0.02` remains fixed.
+
+## 8. v1.1 status
+
+- `v1.1-prereg` completed. E1.1 results recorded in `results_E1_1.md`.
+- G1 PASS: C1'-NI (both n reject), C2' (both n reject), Holm m=4 pass.
+- C1'-EQ FAIL (K superior, not equivalent). F1 FAIL (capacity not retained). Collapse 24.7%.
+- The v1.0 DOI `10.5281/zenodo.23492899` remains frozen and unchanged.
+- `v1.1-prereg` receives a new DOI. The v1.1 release does not overwrite v1.0.
+
+
+## v1.1 English translations
+
+- English translations of `prereg_H1_load_ratio.md` through `prereg_H4_beta_clamp.md` added as `prereg_H1_EN.md` through `prereg_H4_EN.md` for international accessibility (v1.1).
+- The Japanese originals (v1.0) remain the authoritative frozen versions. No hypotheses, decision rules, or parameters were changed.
+- The translations are faithful translations, not amendments.
