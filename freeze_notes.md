@@ -64,7 +64,8 @@ its CI.
 ## 6. Publication status
 
 - GitHub repository: `kpl-prereg` (this repository).
-- Zenodo DOI: pending release `v1.0-prereg`.
+- Zenodo DOI (v1.0): `10.5281/zenodo.23492899` (frozen, unchanged).
+- Zenodo DOI (v1.1): `10.5281/zenodo.23711774` (E1.1 results + English translations).
 - OSF embargo: **omitted by decision**. Zenodo DOI is the freeze evidence;
   OSF is optional and may be added later, but a later OSF timestamp would not
   replace the Zenodo DOI timestamp.
